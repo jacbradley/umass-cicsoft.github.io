@@ -16,6 +16,20 @@
         }
     },
     {
+        "name": "Jacqueline Bradley",
+        "role": "Board Member",
+        "graduating": "Spring 2027",
+        "bio": null,
+        "membership": {
+            "active_member": true,
+            "member_since": "Spring 2024",
+            "member_until": null
+        },
+        "socials": {
+            "linkedin": "jacquelinebradley",
+            "github": "jacbradley",
+            "website": null
+        }
         
     },
     {
